@@ -1,0 +1,23 @@
+{
+  "name": "mk19-to-doo-list",
+  "version": "1.0.2",
+  "description": "TOdo list",
+  "main": "app.js",
+  "type": "module",
+  "bin": "app.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aiman",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.19",
+    "mk19-to-doo-list": "1.0.2"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
